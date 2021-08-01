@@ -1,0 +1,5 @@
+English: Good Morning
+German: Moin
+Chinese: 早上好
+Greek: Καλημέρα
+Arabic: صباح الخير
